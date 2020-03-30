@@ -6,6 +6,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="src" path="capitulo14"/>
+	<classpathentry kind="src" path="capitulo14_Herança_Polimorfismo"/>
+	<classpathentry kind="src" path="capitulo15_Exceções"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
